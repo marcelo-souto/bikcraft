@@ -1,28 +1,27 @@
 :root {
   /* Tons de Cinza */
   --cor-0: #ffffff;
-  --cor-1: #F8F8F8;
-  --cor-2: #EEEEEE;
-  --cor-3: #DCDCDC;
-  --cor-4: #C9C9C9;
-  --cor-5: #A4A4A4;
+  --cor-1: #f8f8f8;
+  --cor-2: #eeeeee;
+  --cor-3: #dcdcdc;
+  --cor-4: #c9c9c9;
+  --cor-5: #a4a4a4;
   --cor-6: #808080;
   --cor-7: #656565;
-  --cor-8: #4F4F4F;
+  --cor-8: #4f4f4f;
   --cor-9: #404040;
-  --cor-10: #2D2D2D;
-  --cor-11: #1F1F1F;
+  --cor-10: #2d2d2d;
+  --cor-11: #1f1f1f;
   --cor-12: #121212;
   --cor-13: #000000;
 
   /* Tons da cor Primaria */
-  --cor-p1: #FFBB00;
-  --cor-p2: #E5A40B;
-  --cor-p3: #A66F00;
+  --cor-p1: #ffbb00;
+  --cor-p2: #e5a40b;
+  --cor-p3: #a66f00;
   --cor-p4: #664400;
   --cor-p5: #332200;
 }
-
 
 /* Utilitarios Tons de Cinza */
 .cor-0 {
@@ -70,17 +69,17 @@
 
 /* Utilitarios Tons da Cor Primaria */
 .cor-p1 {
- color: var(--cor-p1);
+  color: var(--cor-p1);
 }
 .cor-p2 {
- color: var(--cor-p2);
+  color: var(--cor-p2);
 }
 .cor-p3 {
- color: var(--cor-p3);
+  color: var(--cor-p3);
 }
 .cor-p4 {
- color: var(--cor-p4);
+  color: var(--cor-p4);
 }
-.cor-p5  {
- color: var(--cor-p5);
+.cor-p5 {
+  color: var(--cor-p5);
 }

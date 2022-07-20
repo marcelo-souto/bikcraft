@@ -1,15 +1,29 @@
-body {
+body,
+ul,
+p {
   margin: 0;
 }
 
 ul {
   padding: 0;
-  margin: 0;
   list-style: none;
 }
 
 a {
   text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
 }
 
 .container {
@@ -18,5 +32,4 @@ a {
   box-sizing: border-box;
   padding-left: 20px;
   padding-right: 20px;
-  
 }
