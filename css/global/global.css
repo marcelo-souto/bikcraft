@@ -26,6 +26,7 @@ img[src$=".jpg"] {
 h1,
 h2,
 h3,
-h4 {
+h4,
+blockquote {
   margin: 0;
 }
