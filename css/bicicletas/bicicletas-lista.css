@@ -1,5 +1,5 @@
 .bicicletas-lista {
-  padding: 120px 0px;
+  padding: 60px 0 120px 0;
 }
 
 .bicicletas-lista h2 {
@@ -53,7 +53,7 @@
 
 @media (max-width: 800px) {
   .bicicletas-lista {
-    padding: 60px 0;
+    padding-bottom: 60px;
   }
   .bicicletas-lista h2 {
     padding-bottom: 16px;
